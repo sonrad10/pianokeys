@@ -1,5 +1,13 @@
 {
   "name": "pianokeys",
+  "description": "An app to display random piano notes (A-G) to practice moving hands around the piano.",
+  "author": {
+    "name": "Avah Whitehead"
+  },
+  "repository": {
+    "url": "https://github.com/sonrad10/pianokeys",
+    "type": "git"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
